@@ -1,0 +1,88 @@
+{
+  "assetsByChunkName": {
+    "path---workshop": [
+      "path---workshop-40e7718131d51ae21018.js",
+      "path---workshop-40e7718131d51ae21018.js.map"
+    ],
+    "path---events": [
+      "path---events-a0e39f21c11f6a62c5ab.js",
+      "path---events-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----9ee0613e5fce9eb426b8.js",
+      "path----9ee0613e5fce9eb426b8.js.map"
+    ],
+    "path---teams": [
+      "path---teams-bae616ea79cab8ad7063.js",
+      "path---teams-bae616ea79cab8ad7063.js.map"
+    ],
+    "path---news-2017-09-02-first-news-item": [
+      "path---news-2017-09-02-first-news-item-eeeca3f52170007b2449.js",
+      "path---news-2017-09-02-first-news-item-eeeca3f52170007b2449.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-e5a7cc6f161ced758699.js",
+      "component---src-layouts-index-jsx-e5a7cc6f161ced758699.js.map"
+    ],
+    "path---news-2017-09-03-short-news-item": [
+      "path---news-2017-09-03-short-news-item-1c195d0feaa2007755f1.js",
+      "path---news-2017-09-03-short-news-item-1c195d0feaa2007755f1.js.map"
+    ],
+    "path---index": [
+      "path---index-e6b91b39a3903c04369a.js",
+      "path---index-e6b91b39a3903c04369a.js.map"
+    ],
+    "path---news-2017-09-05-another-news-item": [
+      "path---news-2017-09-05-another-news-item-b661c34a711e532574b8.js",
+      "path---news-2017-09-05-another-news-item-b661c34a711e532574b8.js.map"
+    ],
+    "commons": [
+      "commons-06e20ef57119165b6561.js",
+      "build-js-styles.css",
+      "commons-06e20ef57119165b6561.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-eb931d816e0617bf7ba8.js",
+      "component---src-pages-404-jsx-eb931d816e0617bf7ba8.js.map"
+    ],
+    "component---src-templates-blog-post-jsx": [
+      "component---src-templates-blog-post-jsx-c2bc671b026c1031019a.js",
+      "component---src-templates-blog-post-jsx-c2bc671b026c1031019a.js.map"
+    ],
+    "path---news-2017-09-08-robonaut-2016": [
+      "path---news-2017-09-08-robonaut-2016-36d0842094c314ec04cb.js",
+      "path---news-2017-09-08-robonaut-2016-36d0842094c314ec04cb.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-c8b506b3c716a3fe72cb.js",
+      "component---src-pages-index-jsx-c8b506b3c716a3fe72cb.js.map"
+    ],
+    "component---src-templates-teams-jsx": [
+      "component---src-templates-teams-jsx-b75852a48b6eba004679.js",
+      "component---src-templates-teams-jsx-b75852a48b6eba004679.js.map"
+    ],
+    "app": [
+      "app-f6a310fe09d5ef7ee4c3.js",
+      "build-js-styles.css",
+      "app-f6a310fe09d5ef7ee4c3.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-events-jsx": [
+      "component---src-pages-events-jsx-90078384dfae097051c2.js",
+      "component---src-pages-events-jsx-90078384dfae097051c2.js.map"
+    ],
+    "path---about": [
+      "path---about-30e5888611f798e97fea.js",
+      "path---about-30e5888611f798e97fea.js.map"
+    ]
+  }
+}

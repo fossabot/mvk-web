@@ -1,0 +1,2 @@
+webpackJsonp([0x758873e4d3d3],{717:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Ez egy nagyon rövid hír.</p>",frontmatter:{title:"Rövid hír",image:null}}},pathContext:{slug:"/news/2017-09-03-short-news-item/"}}}});
+//# sourceMappingURL=path---news-2017-09-03-short-news-item-1c195d0feaa2007755f1.js.map

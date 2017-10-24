@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{195:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Műegyetemi Versenycsapat Közösség"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----9ee0613e5fce9eb426b8.js.map
